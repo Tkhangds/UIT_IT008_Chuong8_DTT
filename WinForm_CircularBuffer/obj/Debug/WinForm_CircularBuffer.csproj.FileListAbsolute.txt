@@ -1,0 +1,10 @@
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\obj\Debug\WinForm_CircularBuffer.csproj.AssemblyReference.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\obj\Debug\WinForm_CircularBuffer.Properties.Resources.resources
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\obj\Debug\WinForm_CircularBuffer.csproj.GenerateResource.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\obj\Debug\WinForm_CircularBuffer.csproj.CoreCompileInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\obj\Debug\WinForm_CircularBuffer.Form1.resources
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\bin\Debug\WinForm_CircularBuffer.exe.config
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\bin\Debug\WinForm_CircularBuffer.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\bin\Debug\WinForm_CircularBuffer.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\obj\Debug\WinForm_CircularBuffer.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\WinForm_CircularBuffer\obj\Debug\WinForm_CircularBuffer.pdb

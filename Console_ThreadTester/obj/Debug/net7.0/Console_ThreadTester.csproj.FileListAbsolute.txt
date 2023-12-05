@@ -1,0 +1,14 @@
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\bin\Debug\net7.0\Console_ThreadTester.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\bin\Debug\net7.0\Console_ThreadTester.deps.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\bin\Debug\net7.0\Console_ThreadTester.runtimeconfig.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\bin\Debug\net7.0\Console_ThreadTester.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\bin\Debug\net7.0\Console_ThreadTester.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\Console_ThreadTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\Console_ThreadTester.AssemblyInfoInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\Console_ThreadTester.AssemblyInfo.cs
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\Console_ThreadTester.csproj.CoreCompileInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\Console_ThreadTester.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\refint\Console_ThreadTester.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\Console_ThreadTester.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\Console_ThreadTester.genruntimeconfig.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadTester\obj\Debug\net7.0\ref\Console_ThreadTester.dll

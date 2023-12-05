@@ -1,0 +1,14 @@
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\bin\Debug\net7.0\Console_Unsynchronized.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\bin\Debug\net7.0\Console_Unsynchronized.deps.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\bin\Debug\net7.0\Console_Unsynchronized.runtimeconfig.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\bin\Debug\net7.0\Console_Unsynchronized.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\bin\Debug\net7.0\Console_Unsynchronized.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\Console_Unsynchronized.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\Console_Unsynchronized.AssemblyInfoInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\Console_Unsynchronized.AssemblyInfo.cs
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\Console_Unsynchronized.csproj.CoreCompileInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\Console_Unsynchronized.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\refint\Console_Unsynchronized.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\Console_Unsynchronized.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\Console_Unsynchronized.genruntimeconfig.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Unsynchronized\obj\Debug\net7.0\ref\Console_Unsynchronized.dll

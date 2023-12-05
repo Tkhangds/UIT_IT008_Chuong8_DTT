@@ -1,0 +1,14 @@
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\bin\Debug\net7.0\Console_ThreadPool.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\bin\Debug\net7.0\Console_ThreadPool.deps.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\bin\Debug\net7.0\Console_ThreadPool.runtimeconfig.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\bin\Debug\net7.0\Console_ThreadPool.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\bin\Debug\net7.0\Console_ThreadPool.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\Console_ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\Console_ThreadPool.AssemblyInfoInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\Console_ThreadPool.AssemblyInfo.cs
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\Console_ThreadPool.csproj.CoreCompileInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\Console_ThreadPool.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\refint\Console_ThreadPool.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\Console_ThreadPool.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\Console_ThreadPool.genruntimeconfig.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_ThreadPool\obj\Debug\net7.0\ref\Console_ThreadPool.dll

@@ -1,0 +1,14 @@
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\bin\Debug\net7.0\Console_Monitor.exe
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\bin\Debug\net7.0\Console_Monitor.deps.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\bin\Debug\net7.0\Console_Monitor.runtimeconfig.json
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\bin\Debug\net7.0\Console_Monitor.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\bin\Debug\net7.0\Console_Monitor.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\Console_Monitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\Console_Monitor.AssemblyInfoInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\Console_Monitor.AssemblyInfo.cs
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\Console_Monitor.csproj.CoreCompileInputs.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\Console_Monitor.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\refint\Console_Monitor.dll
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\Console_Monitor.pdb
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\Console_Monitor.genruntimeconfig.cache
+D:\Documents\BaiTapTruongUIT\HK1-N2\LTTQ\LyThuyet\BaiTapHangTuan\Chuong8_TruongNguyenTrungKhang_22520629\Console_Monitor\obj\Debug\net7.0\ref\Console_Monitor.dll
